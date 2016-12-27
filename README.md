@@ -44,7 +44,7 @@ sudo chmod +x launch.sh
 ## فعال سازی راه انداز ایزیت
 ```sh
 
-cd $HMOME
+cd $HOME
 
 cd ESET
 
