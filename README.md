@@ -91,8 +91,6 @@ sudo chmod 777 pika
 
 nohup ./pika &>/dev/null &
 
-sudo stop pika
-
 screen ./pika
 ```
 ***
@@ -112,3 +110,5 @@ screen ./pika
 - [x] Nice menu
 - [x] Inerrant
 - [x] No offline
+***
+<h1><p align="center"> `#Thanks Seyed Kia ❤️ `
