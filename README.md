@@ -1,4 +1,4 @@
-<p align="center"> ![http://uupload.ir/files/e3ok_4720345gf4.jpg](http://uupload.ir/files/e3ok_4720345gf4.jpg)
+<p align="center"> ![http://uupload.ir/files/e3ok_4720345gf4.jpg]
 <h1><p align="center"> Optimized by : [Sajjad Momen](https://telegram.me/EndlessLine)
 <h1><p align="center"> Designed by  : [Seyed Kia](https://telegram.me/Flooding)
 <h1><p align="center"> `Version 2`
@@ -111,4 +111,5 @@ screen ./pika
 - [x] Inerrant
 - [x] No offline
 ***
+<p align="center"> ![http://uupload.ir/files/o2a_emza.png]
 <h1><p align="center"> `#Thanks Seyed Kia ❤️ `
