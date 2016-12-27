@@ -110,6 +110,5 @@ screen ./pika
 - [x] Nice menu
 - [x] Inerrant
 - [x] No offline
-***
 <p align="center"> ![http://uupload.ir/files/o2a_emza.png](http://uupload.ir/files/o2a_emza.png)
 <h1><p align="center"> `#Thanks Seyed Kia ❤️ `
