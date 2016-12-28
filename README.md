@@ -13,7 +13,7 @@
 <p align="center"> ![http://uupload.ir/files/uuc5_version_2_icon_by_karite_kita_neko-d74o9ro.png](http://uupload.ir/files/uuc5_version_2_icon_by_karite_kita_neko-d74o9ro.png)
 
 ***
-# <h1><p align="center"> `سورس ربات را حتما با یوزری با نام زیر نصب کنید`
+# <h1><p align="center"> `از یوزری با نام زیر استفاده کنید`
 <h1><p align="center"> `eset`
 
 
