@@ -62,18 +62,7 @@ sudo chmod +x steady.sh
 tmux new-session -s script "bash steady.sh -t"
 ```
 ***
-## فعال سازی بدون آنتی کرش
-```sh 
-فعال سازی بدون آنتی کرش
-
-cd $HOME
-
-cd ESET
-
-screen ./launch.sh
-```
-***
-## نصب اتولانچ پیکا
+## نصب اتولانچ پیکا ( پیشنهاد میشود ✅)
 ```sh 
 cd $HOME
 
@@ -90,6 +79,17 @@ sudo chmod 777 pika
 nohup ./pika &>/dev/null &
 
 screen ./pika
+```
+***
+## فعال سازی بدون آنتی کرش
+```sh 
+فعال سازی بدون آنتی کرش
+
+cd $HOME
+
+cd ESET
+
+screen ./launch.sh
 ```
 ***
 
