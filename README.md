@@ -62,7 +62,8 @@ sudo chmod +x steady.sh
 tmux new-session -s script "bash steady.sh -t"
 ```
 ***
-## نصب اتولانچ پیکا ( پیشنهاد میشود ✅)
+## نصب اتولانچ پیکا
+# اتولانچ پیشنهادی ✅
 ```sh 
 cd $HOME
 
