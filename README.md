@@ -93,20 +93,20 @@ screen ./pika
 ```
 ***
 
-- [x] Working with Redis
-- [x] Working with Data
-- [x] High speed and powerful
-- [x] With high accuracy
-- [x] Optimized
-- [x] Having auto launch Steady.sh
-- [x] Having auto launch Pika
-- [x] Having auto starter (ESET.sh)
-- [x] Full fun facilities
-- [x] Functional Features
-- [x] Compressed plug
-- [x] Persian language
-- [x] Nice menu
-- [x] Inerrant
-- [x] No offline
+- [x] کار با ردیس سرور
+- [x] کار با دیتا
+- [x] پرسرعت و پرقدرت
+- [x] دارای امکانات کاربردی 
+- [x] بهینه سازی شده
+- [x] دارای اتولانچ استدی
+- [x] دارای اتولانچ پیکا
+- [x] دارای راه انداز
+- [x] امکانات سرگرم کننده کامل
+- [x] دستورات ساده
+- [x] دارای پلاگین های کمپرس شده
+- [x] دارای زبان فارسی
+- [x] دارای منوی زیبا و واضح
+- [x] بدون خطا
+- [x] بدون آفلاین شدن
 <p align="center"> ![http://uupload.ir/files/o2a_emza.png](http://uupload.ir/files/o2a_emza.png)
 <h1><p align="center"> `#Thanks Seyed Kia ❤️ `
