@@ -63,7 +63,7 @@ tmux new-session -s script "bash steady.sh -t"
 ```
 ***
 ## نصب اتولانچ پیکا
-# اتولانچ پیشنهادی ✅
+### اتولانچ پیشنهادی ✅
 ```sh 
 cd $HOME
 
