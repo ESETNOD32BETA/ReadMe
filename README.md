@@ -51,7 +51,7 @@ sudo chmod 777 ESET.sh
 screen ./ESET.sh
 ```
 ***
-## فعال سازی آنتی کرش استدی
+## فعال سازی اتولانچ استدی
 ```sh 
 cd $home
 
